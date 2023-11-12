@@ -1,0 +1,166 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/intelFPGA/18.0/cofre
+Eaddc
+Z0 w1694713998
+Z1 DPx3 std 6 textio 0 22 zE1`LPoLg^DX3Oz^4Fj1K3
+Z2 DPx4 ieee 14 std_logic_1164 0 22 eNV`TJ_GofJTzYa?f<@Oe1
+Z3 dD:/BINBCD/projeto BINBCD
+Z4 8D:/BINBCD/projeto BINBCD/addc.vhd
+Z5 FD:/BINBCD/projeto BINBCD/addc.vhd
+l0
+L4
+V5n?Z9HIY74F^hS]gHbMbU3
+!s100 Ye7e[VK?C<NkR``J^BUR23
+Z6 OV;C;10.5b;63
+32
+Z7 !s110 1699797437
+!i10b 1
+Z8 !s108 1699797436.000000
+Z9 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/BINBCD/projeto BINBCD/addc.vhd|
+Z10 !s107 D:/BINBCD/projeto BINBCD/addc.vhd|
+!i113 1
+Z11 o-work work -2002 -explicit
+Z12 tExplicit 1 CvgOpt 0
+Ackt
+R1
+R2
+DEx4 work 4 addc 0 22 5n?Z9HIY74F^hS]gHbMbU3
+l11
+L9
+V5n5RijEe]lJNCaz13CZ2z1
+!s100 lTlk;PoY@00h>81n1Lc2;2
+R6
+32
+R7
+!i10b 1
+R8
+R9
+R10
+!i113 1
+R11
+R12
+Ebinbcd
+Z13 w1694717844
+R1
+R2
+R3
+Z14 8D:/BINBCD/projeto BINBCD/binbcd.vhd
+Z15 FD:/BINBCD/projeto BINBCD/binbcd.vhd
+l0
+L4
+VSU<I2mkGoSlmF=hLdGL5o3
+!s100 ?Po;jMAFbDTID0Jc7CAjO3
+R6
+32
+R7
+!i10b 1
+Z16 !s108 1699797437.000000
+Z17 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/BINBCD/projeto BINBCD/binbcd.vhd|
+Z18 !s107 D:/BINBCD/projeto BINBCD/binbcd.vhd|
+!i113 1
+R11
+R12
+Ackt
+R1
+R2
+DEx4 work 6 binbcd 0 22 SU<I2mkGoSlmF=hLdGL5o3
+l19
+L9
+VJUbg;HSaRgMzgbf2NXM3P3
+!s100 SGIl4Wz@_Yc;k3@;2J5HW1
+R6
+32
+Z19 !s110 1699797438
+!i10b 1
+R16
+R17
+R18
+!i113 1
+R11
+R12
+Epjt_bin_bcd
+R0
+R1
+R2
+R3
+Z20 8D:/BINBCD/projeto BINBCD/BBCD.vhd
+Z21 FD:/BINBCD/projeto BINBCD/BBCD.vhd
+l0
+L3
+VaKPje:A>>NQJnJCjnY=Jm3
+!s100 o`Rm;6kmIVN7[Ofe18o790
+R6
+32
+R7
+!i10b 1
+R16
+Z22 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/BINBCD/projeto BINBCD/BBCD.vhd|
+Z23 !s107 D:/BINBCD/projeto BINBCD/BBCD.vhd|
+!i113 1
+R11
+R12
+Ackt
+R1
+R2
+DEx4 work 11 pjt_bin_bcd 0 22 aKPje:A>>NQJnJCjnY=Jm3
+l22
+L8
+VkaDZi4=7HXJ0FC[mH5UPM3
+!s100 7?Gf1PLh30<h7iM7Kj]iS3
+R6
+32
+R7
+!i10b 1
+R16
+R22
+R23
+!i113 1
+R11
+R12
+Eseg7
+Z24 w1694708108
+R1
+R2
+R3
+Z25 8D:/BINBCD/projeto BINBCD/seg7.vhd
+Z26 FD:/BINBCD/projeto BINBCD/seg7.vhd
+l0
+L4
+Vg;lG4I1J[MPN_d?TkLCVb2
+!s100 YOG`3Q6l>X_BHLBjfmiE_3
+R6
+32
+R19
+!i10b 1
+Z27 !s108 1699797438.000000
+Z28 !s90 -reportprogress|300|-work|work|-2002|-explicit|-stats=none|D:/BINBCD/projeto BINBCD/seg7.vhd|
+Z29 !s107 D:/BINBCD/projeto BINBCD/seg7.vhd|
+!i113 1
+R11
+R12
+Ackt
+R1
+R2
+DEx4 work 4 seg7 0 22 g;lG4I1J[MPN_d?TkLCVb2
+l13
+L9
+V]DJLem1HP7[MfER]UhGM_2
+!s100 C0HTX0SWQ^e38Ooz692Z21
+R6
+32
+R19
+!i10b 1
+R27
+R28
+R29
+!i113 1
+R11
+R12
